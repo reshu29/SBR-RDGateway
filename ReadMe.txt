@@ -1,0 +1,3 @@
+This will create an RDGateway server for SBR running on Windows Server 2012 R2.
+
+RD Gateway uses the Remote Desktop Protocol (RDP) over HTTPS to establish a secure, encrypted connection between remote users on the Internet and Windows-based Amazon EC2 instances, without needing to configure a virtual private network (VPN) connection. This allows you to reduce the attack surface on your Windows-based instances while providing a remote administration solution for administrators.
