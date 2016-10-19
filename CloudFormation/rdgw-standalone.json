@@ -67,7 +67,7 @@
         "RDGW1PrivateIP": {
             "Description": "Fixed private IP for the first Remote Desktop Gateway located in Availability Zone 1",
             "Type": "String",
-            "Default: "10.0.0.252"
+            "Default": "10.0.0.252"
         },
         "RDGW2InstanceType": { 
             "Description": "Amazon EC2 instance type for the second Remote Desktop Gateway instance",
