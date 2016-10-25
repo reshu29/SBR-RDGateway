@@ -226,13 +226,13 @@
                                 }
                             },
                             "C:\\cfn\\scripts\\Unzip-Archive.ps1": {
-                                "source": "https://s3.amazonaws.com/quickstart-reference/microsoft/rdgateway/latest/microsoft-utilities/scripts/Unzip-Archive.ps1"
+                                "source": "https://rdgateway-sbr.s3.amazonaws.com/Unzip-Archive.ps1"
                             },
                             "C:\\cfn\\modules\\AWSQuickStart.zip": {
-                                "source": "https://s3.amazonaws.com/quickstart-reference/microsoft/rdgateway/latest/microsoft-utilities/modules/AWSQuickStart.zip"
+                                "source": "https://rdgateway-sbr.s3.amazonaws.com/AWSQuickStart.zip"
                             },
                             "c:\\cfn\\scripts\\Configure-RDGW.ps1": {
-                                "source": "https://s3.amazonaws.com/quickstart-reference/microsoft/rdgateway/latest/scripts/Configure-RDGW.ps1"
+                                "source": "https://rdgateway-sbr.s3.amazonaws.com/Configure-RDGW.ps1"
                             }
                         },
                         "services": {
