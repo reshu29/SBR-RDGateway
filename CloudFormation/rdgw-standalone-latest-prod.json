@@ -25,7 +25,7 @@
         "DomainDNSName": {
             "Description": "Fully qualified domain name (FQDN) e.g. example.com",
             "Type": "String",
-            "Default": "ops-myaccountant.addevcloudsties.myob.com",
+            "Default": "adcloudservices.com.au",
             "MinLength": "3",
             "MaxLength": "50",
             "AllowedPattern": "[a-zA-Z0-9-]+\\..+"
